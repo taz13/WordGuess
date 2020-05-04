@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="com_facebook_picker_list_view">false</item>
+    <item type="id" name="com_facebook_picker_activity_circle">false</item>
+    <item type="id" name="com_facebook_login_activity_progress_bar">false</item>
+    <item type="id" name="com_facebook_picker_row_activity_circle">false</item>
+    <item type="id" name="com_facebook_picker_checkbox">false</item>
+    <item type="id" name="com_facebook_picker_image">false</item>
+    <item type="id" name="com_facebook_picker_profile_pic_stub">false</item>
+    <item type="id" name="com_facebook_picker_title">false</item>
+    <item type="id" name="com_facebook_picker_checkbox_stub">false</item>
+    <item type="id" name="com_facebook_picker_list_section_header">false</item>
+    <item type="id" name="com_facebook_picker_top_bar">false</item>
+    <item type="id" name="com_facebook_picker_done_button">false</item>
+    <item type="id" name="com_facebook_picker_divider">false</item>
+    <item type="id" name="com_facebook_picker_title_bar_stub">false</item>
+    <item type="id" name="com_facebook_picker_title_bar">false</item>
+    <item type="id" name="com_facebook_placepickerfragment_search_box_stub">false</item>
+    <item type="id" name="search_box">false</item>
+    <item type="id" name="picker_subtitle">false</item>
+    <item type="id" name="com_facebook_usersettingsfragment_logo_image">false</item>
+    <item type="id" name="com_facebook_usersettingsfragment_profile_name">false</item>
+    <item type="id" name="com_facebook_usersettingsfragment_login_button">false</item>
+    <item type="id" name="menu_settings">false</item>
+</resources>

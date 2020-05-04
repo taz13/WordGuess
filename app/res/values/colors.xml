@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="com_facebook_blue">#ff3b5998</color>
+    <color name="com_facebook_usersettingsfragment_connected_text_color">#ffffffff</color>
+    <color name="com_facebook_usersettingsfragment_connected_shadow_color">#ff000000</color>
+    <color name="com_facebook_usersettingsfragment_not_connected_text_color">#ffa6aed7</color>
+    <color name="com_facebook_loginview_text_color">#ffffffff</color>
+</resources>
