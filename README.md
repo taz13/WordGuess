@@ -1,1 +1,1 @@
-# WordGuess - Android based word puzz;e game.
+# WordGuess - Android based word puzzle game.
